@@ -1,8 +1,8 @@
 # Machine_Learning_101
 This is a part of <br>
 <h1>"Machine Learning 0–100 zero to Mr.incredible" (Thai language)</h1>
-<a>https://medium.com/mmp-li/เริ่มเรียน-machine-learning-0-100-introduction-1c58e516bfcd </a>
-
+<a href="https://medium.com/mmp-li/เริ่มเรียน-machine-learning-0-100-introduction-1c58e516bfcd ">On medium</a>
+<br>
 We have 12 section every section are continuous
 
 •Introduction <br>
