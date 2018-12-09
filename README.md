@@ -4,7 +4,7 @@ https://medium.com/mmp-li/เริ่มเรียน-machine-learning-0-100-
 
 We have 12 section every section are continuous
 
-•Introduction
+•Introduction <br>
 •Supervised Classification(k-NN+IRIS)
 •Under Fitting / Over Fitting 
 •Evaluate Model (Precision,Recall,F1 score)
