@@ -1,18 +1,19 @@
 # Machine_Learning_101
-This is a part of "Machine Learning 0–100 zero to Mr.incredible" (Thai language)
-https://medium.com/mmp-li/เริ่มเรียน-machine-learning-0-100-introduction-1c58e516bfcd 
+This is a part of <br>
+<h1>"Machine Learning 0–100 zero to Mr.incredible" </h1>(Thai language)
+<a>https://medium.com/mmp-li/เริ่มเรียน-machine-learning-0-100-introduction-1c58e516bfcd </a>
 
 We have 12 section every section are continuous
 
 •Introduction <br>
-•Supervised Classification(k-NN+IRIS)
-•Under Fitting / Over Fitting 
-•Evaluate Model (Precision,Recall,F1 score)
-•Linear/Poly Regression + predict GDP Thailand
-•Gradient Descent 
-•Logistic Regression + titanic dataset
-•SVM + titanic dataset
-•Decision tree + diabetes dataset
-•Random Forest + bike sell dataset
-•Neural Network [Perceptron-Activation-Backpropagation]
-•NLP text classification
+•Supervised Classification(k-NN+IRIS) <br>
+•Under Fitting / Over Fitting  <br>
+•Evaluate Model (Precision,Recall,F1 score) <br>
+•Linear/Poly Regression + predict GDP Thailand <br>
+•Gradient Descent  <br>
+•Logistic Regression + titanic dataset <br>
+•SVM + titanic dataset <br>
+•Decision tree + diabetes dataset <br>
+•Random Forest + bike sell dataset <br>
+•Neural Network [Perceptron-Activation-Backpropagation] <br>
+•NLP text classification <br>
