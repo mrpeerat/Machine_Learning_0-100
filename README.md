@@ -1,4 +1,4 @@
-# Machine_Learning_101
+# Machine_Learning_0-100
 This is a part of <br>
 <h1>"Machine Learning 0–100 zero to Mr.incredible" (Thai language)</h1>
 Medium : <a href="https://medium.com/mmp-li/เริ่มเรียน-machine-learning-0-100-introduction-1c58e516bfcd ">Machine Learning 0–100 zero to Mr.incredible</a>
